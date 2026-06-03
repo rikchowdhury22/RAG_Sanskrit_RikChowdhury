@@ -1,0 +1,11 @@
+# RAG Sanskrit - Dependencies
+# All packages are lightweight and CPU-compatible
+# No GPU required
+
+numpy>=1.24.0
+python-docx>=0.8.11
+requests>=2.28.0
+
+# Optional: for running the LLM generator locally
+# Install Ollama separately: https://ollama.com/download
+# Then run: ollama pull tinyllama

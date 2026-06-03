@@ -1,0 +1,21 @@
+# RAG index (rebuilt on setup — do not commit)
+data/index.pkl
+data/chroma_db/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
